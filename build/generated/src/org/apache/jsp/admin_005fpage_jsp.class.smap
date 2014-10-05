@@ -1,0 +1,24 @@
+SMAP
+admin_005fpage_jsp.java
+JSP
+*S JSP
+*F
++ 0 admin_page.jsp
+admin_page.jsp
++ 1 page_start.jsp
+page_accessories/page_start.jsp
++ 2 page_header.jsp
+page_accessories/page_header.jsp
++ 3 page_sidebar.jsp
+page_accessories/page_sidebar.jsp
+*L
+5,7:55
+1#1,50:61
+11#0:111,2
+1#2,52:113
+12#0,8:165
+1#3,69:173
+71,29:244
+99,23:273
+19#0,92:296
+*E
